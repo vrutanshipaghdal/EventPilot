@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+*.env
+*credentials.toml
+
+# Virtual environments
+.venv/
+*/.venv/
+venv/
+*/venv/
+
+# Python cache & tests
+__pycache__/
+*/__pycache__/
+*.py[cod]
+.pytest_cache/
+*/.pytest_cache/
+
+# Databases & dynamic data
+*.db
+*.sqlite3
+data/*.db
+
+# OS files
+Thumbs.db
+.DS_Store

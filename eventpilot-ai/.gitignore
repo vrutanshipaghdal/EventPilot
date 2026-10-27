@@ -1,0 +1,6 @@
+.env
+__pycache__/
+data/events.db
+data/eventpilot.db
+.venv/
+.pytest_cache/
